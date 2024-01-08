@@ -1,1 +1,1 @@
-# k6-ws
+Link: http://localhost:8000/d/k6/k6-load-testing-results?orgId=1&refresh=5s
